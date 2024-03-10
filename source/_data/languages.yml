@@ -1,0 +1,31 @@
+# language
+zh-CN:
+  # items
+  favicon:
+    show: 不负韶华
+    hide: 以梦为马！
+
+zh-HK:
+  favicon:
+    show: 不负韶华
+    hide: 以梦为马！
+
+zh-TW:
+  favicon:
+    show: 不负韶华
+    hide: 以梦为马！
+
+en:
+  favicon:
+    show: 不负韶华
+    hide: 以梦为马！
+
+ja:
+  favicon:
+    show: 不负韶华
+    hide: 以梦为马！
+
+
+waline:
+  enable: true # 是否启用
+  serverURL: "https://waline-shokax.zeabur.app" # 将此链接换成您自己的 Domains，主页链接后面不能加 /  会出错
